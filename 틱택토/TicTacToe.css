@@ -1,0 +1,9 @@
+table {
+    width: 450px; height: 450px; border: 2px solid;
+    border-collapse: collapse;
+}
+
+tr > td {
+    width: 150px; height: 150px; border: 2px solid;
+    font-size: 50px; text-align: center;
+}

@@ -1,0 +1,14 @@
+.initialState {
+    width: 500px; height: 350px; background-color: antiquewhite;
+    text-align: center; 
+}
+
+.onGoingState {
+    width: 500px; height: 350px; background-color: red;
+    text-align: center; color: blue;
+}
+
+.stateNow {
+    width: 500px; height: 350px; background-color: orange;
+    text-align: center; color: purple; font-size: x-large;
+}
